@@ -96,6 +96,6 @@
         <button type="button" class="btn btn-primary btn-lg" style="width: 400px; height: 60px">Add Unaffiliated Contact Person +</button>
     </div>
     <div class="row justify-content-center" style="font-family:Arial; font-size: 16px 60px">
-        <button type="submit" class="btn btn-primary btn-lg" style="width:250px;height:50px;">Add Event/Meeting</button>
+        <button type="submit" class="btn btn-primary btn-lg" style="width:250px;height:50px;">Add Event/Meeting +</button>
     </div>
 </asp:Content>
